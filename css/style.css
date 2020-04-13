@@ -1,0 +1,77 @@
+.parent{
+
+	display: flex;
+	flex.direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #bfff80;
+
+
+}
+
+.child{
+
+	border: 1px inset #589;
+	padding: 10px;
+	margin: 10px;
+	width: 30%;
+	height: 100%;
+	text-align: center;
+	background-color: #299;
+}
+
+.role{
+	color: #1aff1a;
+}
+
+.name{
+	color: #e63900;
+}
+
+.mailph{
+	color: #212;
+}
+
+.child1{
+	padding: 10px;
+	margin: 10px;
+
+}
+
+table{
+	width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+td{
+	background-color: #66ff99;
+	color: blue;
+}
+
+button{
+	background-color: #cc9900;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 12px;
+}
+
+.final{
+	background-color: #40bf80;
+	color: red;
+	text-align: center;
+}
